@@ -99,7 +99,6 @@ iocInit()
 
 # Init Log
 #iocLogInit();
-#caPutLogInit "10.20.21.45:5064"
 
 # List the names of the PVs we're creating
 dbl > pvnames.txt
